@@ -1,17 +1,9 @@
 {
-  "lastUpdated": "2026-10-08T01:31:27.450Z",
+  "lastUpdated": "2026-10-08T01:31:45.846Z",
   "supplierInfo": {
-    "name": "Test Supplier",
-    "contact": "wechat_test"
+    "name": "",
+    "contact": ""
   },
-  "totalItemsQuoted": 1,
-  "responses": {
-    "1": {
-      "avail": "in_stock",
-      "price": "8.35 USD",
-      "moq": "50 pcs",
-      "lead": "Ready Batch",
-      "notes": "Test init"
-    }
-  }
+  "totalItemsQuoted": 0,
+  "responses": {}
 }
